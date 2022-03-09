@@ -1,0 +1,35 @@
+body {
+  background-color: cadetblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  height: 100vh;
+}
+
+.wrapper {
+  width: 400px;
+  height: 250px;
+  background-color: orange;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+}
+button {
+  background-color: rgb(245, 53, 53);
+  width: 100px;
+  border-radius: 5px;
+  border: transparent;
+  padding: 10px;
+  color: white;
+  font-weight: 700;
+}
+span {
+  font-size: 30px;
+}
+p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
